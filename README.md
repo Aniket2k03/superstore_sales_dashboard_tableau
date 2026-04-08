@@ -9,7 +9,7 @@ This project showcases an interactive **Tableau dashboard** designed to analyze 
 ## 🔹 Tools & Technologies
 
 * Tableau Desktop
-* Microsoft Excel / CSV Dataset
+* Microsoft Excel 
 
 ---
 
